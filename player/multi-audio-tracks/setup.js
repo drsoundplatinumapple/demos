@@ -1,11 +1,9 @@
 var conf = {
-  key: '<YOUR PLAYER KEY>'
+  key: '11098301-26c1-4f1d-a822-f45640d8c0f0'
 };
 
 var source = {
-  dash: 'https://bitmovin-a.akamaihd.net/content/sintel/sintel.mpd',
-  hls: 'https://bitmovin-a.akamaihd.net/content/sintel/hls/playlist.m3u8',
-  poster: 'https://bitmovin-a.akamaihd.net/content/sintel/poster.png',
+  hls: 'https://cdn3.wowza.com/1/MXViRGN6Vjl6MUhQ/Uk5WV2R2/hls/live/playlist.m3u8',
 };
 
 var playerContainer = document.getElementById('player-container');
